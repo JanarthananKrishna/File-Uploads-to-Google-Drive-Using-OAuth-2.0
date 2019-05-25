@@ -10,13 +10,18 @@ So just create a new project from the created projects.
 
 
 
-After selecting the project just click on create credentials and create a brand new OAuth Client ID.
+
+
+#After selecting the project just click on create credentials and create a brand new OAuth Client ID.
 
 
 ![Createcredentials](https://user-images.githubusercontent.com/50908984/58369000-46793c00-7f12-11e9-8121-590e7c16e486.jpg)
 
 
-After selecting the project just click on create credentials and create a brand new OAuth Client ID
+
+
+
+#After selecting the project just click on create credentials and create a brand new OAuth Client ID
 
 
 ![Applicationtype](https://user-images.githubusercontent.com/50908984/58369004-5264fe00-7f12-11e9-8fb1-b3e5b02714be.jpg)
@@ -25,46 +30,65 @@ After selecting the project just click on create credentials and create a brand 
 
 
 
-Click on the create button to generate the client id and client secret.
+
+
+#Click on the create button to generate the client id and client secret.
 
 
 ![Client id and secret](https://user-images.githubusercontent.com/50908984/58369019-67419180-7f12-11e9-8e4f-34172250e789.jpg)
 
 
-Extract the downloaded project into WAMP/Apache24 server path. (C:\wamp\www) or (C:\Apache24\htdocs)
 
 
-Extract GoogleDriveFileUpload.zip file. (C:\Apache24\htdocs\GoogleDriveFileUpload).
+
+#Extract the downloaded project into WAMP/Apache24 server path. (C:\wamp\www) or (C:\Apache24\htdocs)
+
+
+#Extract GoogleDriveFileUpload.zip file. (C:\Apache24\htdocs\GoogleDriveFileUpload).
 
 
 ![location](https://user-images.githubusercontent.com/50908984/58369024-732d5380-7f12-11e9-9c01-f8f682832075.jpg)
 
 
-Now run your Web app using Apache server (http://localhost/GoogleDriveFileUpload).
+
+
+#Now run your Web app using Apache server (http://localhost/GoogleDriveFileUpload).
 
 ![weblocate](https://user-images.githubusercontent.com/50908984/58369034-7f191580-7f12-11e9-8c61-5d437b4999d7.jpg)
+
 
 ![indexpage](https://user-images.githubusercontent.com/50908984/58369036-86402380-7f12-11e9-92e9-aa0122ca9950.jpg)
 
 
-Press “Upload Files to Drive” button and proceed. You'll ask permissions by Google Drive API for file management.
+
+
+#Press “Upload Files to Drive” button and proceed. You'll ask permissions by Google Drive API for file management.
 
 ![b_Authorizedmail](https://user-images.githubusercontent.com/50908984/58369043-97893000-7f12-11e9-8d21-424fef4d4217.jpg)
+
 
 ![b_confirmMail](https://user-images.githubusercontent.com/50908984/58369045-9c4de400-7f12-11e9-8ce7-94a7aef701a2.jpg)
 
 
 
-Then you can select file to Google Drive Using 'Choose files' button. 
+
+
+#Then you can select file to Google Drive Using 'Choose files' button. 
 
 ![choosefile](https://user-images.githubusercontent.com/50908984/58369048-a8d23c80-7f12-11e9-885d-5a49f6f21cc9.jpg)
 
 
-After select document you can upload file to Google Drive Using ‘Upload’ button
+
+
+
+#After select document you can upload file to Google Drive Using ‘Upload’ button
 
 ![upload process](https://user-images.githubusercontent.com/50908984/58369050-b4bdfe80-7f12-11e9-985a-0894a2e75801.jpg)
 
 
-Finally you got the document in your google drive.
+
+
+
+#Finally you got the document in your google drive.
 
 ![drivelocate](https://user-images.githubusercontent.com/50908984/58369054-c0a9c080-7f12-11e9-97f1-59aa2350455a.jpg)
